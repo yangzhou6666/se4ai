@@ -16,7 +16,7 @@
 
 ## AI Development Methodology
 
-## Technical Debt for AI
+## Technical Debt for AI System
 
 [Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks](http://das.encs.concordia.ca/uploads/liu_icse2020.pdf) (ICSE 2020)
 
