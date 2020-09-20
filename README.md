@@ -10,6 +10,8 @@
 
 [An Empirical Study on Program Failures of Deep Learning Jobs](https://wencongxiao.github.io/res/icse20/icse20-main-199.pdf) (ICSE 2020)
 
+[Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks](https://www.comp.nus.edu.sg/~abhik/pdf/ICSE20_Sensei.pdf) (ICSE 2020)
+
 ## Verification for AI System
 
 ## Effort Estimation for AI Life Circle
